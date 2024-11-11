@@ -1,0 +1,101 @@
+ProductID,ProductName,Category,Views,Sales,Returns,Rating,AverageViewTime
+1,Wireless Mouse,Electronics,150,50,5,4.5,5.2
+2,Bluetooth Headphones,Electronics,200,80,2,4.7,6.1
+3,USB-C Hub,Electronics,120,30,3,4.6,4.5
+4,LED Monitor,Electronics,180,70,1,4.8,7.4
+5,Mechanical Keyboard,Electronics,250,60,0,4.9,8.0
+6,Smartphone Case,Accessories,300,120,10,4.2,3.8
+7,HDMI Cable,Accessories,220,90,4,4.3,5.5
+8,Portable Charger,Electronics,400,150,5,4.6,5.7
+9,Smartwatch,Electronics,350,140,6,4.7,6.5
+10,Wired Mouse,Electronics,200,60,2,4.3,4.9
+11,External Hard Drive,Electronics,220,80,3,4.8,6.0
+12,Webcam,Electronics,170,70,1,4.4,5.3
+13,Phone Stand,Accessories,150,50,5,4.6,3.0
+14,Wireless Charger,Electronics,280,110,8,4.5,6.1
+15,Tablet Stand,Accessories,200,80,4,4.2,4.8
+16,Noise Cancelling Headphones,Electronics,230,90,2,4.9,7.0
+17,Laptop Sleeve,Accessories,300,130,7,4.3,5.2
+18,Smart Speaker,Electronics,410,160,3,4.8,6.8
+19,WiFi Range Extender,Electronics,320,120,4,4.7,5.4
+20,Gaming Headset,Electronics,280,100,5,4.6,7.5
+21,Digital Camera,Electronics,250,90,3,4.5,6.3
+22,Action Camera,Electronics,150,40,1,4.4,5.5
+23,VR Headset,Electronics,100,30,2,4.2,6.1
+24,Smartphone Tripod,Accessories,180,60,1,4.3,4.9
+25,Bluetooth Speaker,Electronics,400,160,8,4.8,7.0
+26,Phone Screen Protector,Accessories,450,200,10,4.5,3.5
+27,Laptop Stand,Accessories,200,90,5,4.6,4.0
+28,Desk Organizer,Accessories,350,130,4,4.2,4.8
+29,Wireless Earbuds,Electronics,380,150,3,4.7,6.5
+30,Action Figure,Toys,250,70,5,4.6,5.5
+31,Coffee Maker,Home,150,50,2,4.5,7.3
+32,Blender,Home,200,80,1,4.8,6.4
+33,Microwave Oven,Home,300,120,6,4.9,5.9
+34,Electric Kettle,Home,350,130,4,4.7,4.2
+35,Dishwasher,Home,100,40,3,4.3,5.5
+36,Refrigerator,Home,400,150,8,4.6,6.1
+37,Toaster,Home,200,60,2,4.4,5.8
+38,Oven,Home,250,90,3,4.5,5.0
+39,Air Fryer,Home,300,110,1,4.8,6.0
+40,Cutting Board,Home,220,80,4,4.3,4.6
+41,Wall Clock,Home,150,50,5,4.2,3.7
+42,Bath Towels,Home,280,100,7,4.6,2.9
+43,Table Lamp,Home,230,90,2,4.7,4.0
+44,Sofa,Home,300,130,4,4.8,8.5
+45,Chair,Home,350,140,3,4.4,5.2
+46,Desk,Home,200,80,1,4.3,4.5
+47,Bookshelf,Home,150,60,2,4.5,3.6
+48,TV Stand,Home,100,40,1,4.2,4.8
+49,Picture Frame,Home,250,90,5,4.7,3.1
+50,Rug,Home,400,200,10,4.9,4.4
+51,Smart Thermostat,Home,300,120,6,4.8,5.9
+52,Home Security Camera,Home,320,140,2,4.6,6.3
+53,Smart Doorbell,Home,250,110,3,4.4,5.1
+54,Window Blinds,Home,180,70,4,4.3,4.9
+55,Air Purifier,Home,200,80,5,4.5,4.2
+56,Humidifier,Home,150,50,1,4.6,3.8
+57,Heater,Home,100,30,2,4.2,5.6
+58,Ceiling Fan,Home,120,40,3,4.3,6.5
+59,Wall Art,Home,400,150,6,4.7,5.4
+60,Decorative Plant,Home,250,90,3,4.5,4.5
+61,Power Bank,Electronics,300,110,4,4.6,5.7
+62,Wireless Router,Electronics,250,100,3,4.7,6.1
+63,HDMI Switch,Electronics,200,80,5,4.5,4.0
+64,Game Console,Electronics,180,70,2,4.8,7.6
+65,Gaming Mouse,Electronics,350,120,1,4.9,6.8
+66,Gaming Keyboard,Electronics,220,90,2,4.6,5.5
+67,Monitor Stand,Accessories,300,130,6,4.4,4.2
+68,Speaker Stand,Accessories,250,110,3,4.5,5.0
+69,Wall Charger,Electronics,400,160,8,4.8,5.5
+70,Bluetooth Receiver,Electronics,500,180,4,4.7,4.9
+71,LED Strip Lights,Home,600,250,12,4.6,7.0
+72,Smart Plugs,Home,450,200,10,4.5,5.5
+73,Outdoor String Lights,Home,320,140,6,4.8,4.6
+74,Patio Heater,Home,220,90,5,4.9,8.1
+75,Camping Chair,Outdoor,180,60,2,4.3,5.3
+76,Tent,Outdoor,300,120,1,4.6,6.7
+77,Sleeping Bag,Outdoor,400,150,8,4.5,5.9
+78,Hiking Backpack,Outdoor,350,140,3,4.7,7.2
+79,Fishing Rod,Outdoor,250,90,5,4.4,5.0
+80,Cooler,Outdoor,180,60,1,4.8,4.8
+81,Camping Stove,Outdoor,300,110,4,4.6,5.2
+82,Camping Lantern,Outdoor,220,80,5,4.3,4.4
+83,Trekking Poles,Outdoor,150,50,2,4.7,6.0
+84,Surfboard,Outdoor,100,30,1,4.2,7.5
+85,Diving Mask,Outdoor,200,70,3,4.5,4.9
+86,Smart Water Bottle,Outdoor,250,100,2,4.6,5.1
+87,Dog Leash,Pets,180,60,5,4.4,3.5
+88,Cat Tree,Pets,200,80,1,4.5,5.2
+89,Dog Bed,Pets,150,50,3,4.8,4.0
+90,Pet Food Bowl,Pets,300,120,6,4.6,2.9
+91,Pet Grooming Kit,Pets,220,90,4,4.7,5.8
+92,Pet Training Pad,Pets,100,40,2,4.3,3.6
+93,Pet Carrier,Pets,250,110,3,4.5,4.4
+94,Dog Toys,Pets,400,160,1,4.9,6.2
+95,Cat Toys,Pets,350,130,5,4.6,3.8
+96,Dog Coat,Pets,450,200,10,4.8,4.0
+97,Pet Treats,Pets,320,140,6,4.2,3.5
+98,Pet Bed,Pets,200,80,5,4.5,4.9
+99,Pet Fence,Pets,250,100,2,4.4,4.8
+100,Pet Carrier Backpack,Pets,180,70,3,4.7,5.6
